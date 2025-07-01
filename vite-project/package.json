@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://charles-mtobias.github.io/Passageiros-Vite/e",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
